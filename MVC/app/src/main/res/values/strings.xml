@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MVC</string>
+    <string name="ProductViewApp">Product Viewer App</string>
+    <string name="AllProducts">All Products</string>
+    <string name="FavProducts">Fav Products\n</string>
+    <string name="Exit">Exit</string>
+    <string name="title_activity_all_products">AllProductsActivity</string>
+    <string name="title_activity_fav_products">FavProductsActivity</string>
+    <string name="Favbtn">Add to fav\n</string>
+    <string name="Backbtn">Back\n</string>
+    <string name="Removebtn">Remove</string>
+</resources>
